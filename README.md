@@ -1,6 +1,7 @@
 
 # Rapport
-
+Jag ändrade kod i xml-filen AndriodManifest.xml. 
+Denna bit kod är ändrad 
 **Skriv din rapport här!**
 
 _Du kan ta bort all text som finns sedan tidigare_.
